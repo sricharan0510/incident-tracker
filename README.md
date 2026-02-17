@@ -39,9 +39,3 @@ API (basic)
 Notes & future ideas
 - Server-side pagination is used for performance with larger datasets.
 - Improvements to consider: authentication (JWT), unit/integration tests, real-time updates (Socket.io), and audit logs.
-
-Submitting this project
-
-- Commit and push your final changes: `git add . && git commit -m "Final submission" && git push`
-- Create a simple PDF with your name, email, and the repo link before submission.
-
